@@ -149,6 +149,3 @@ This project is intended for educational and research purposes.
 For production deployment, stronger anti-spoofing models and data security mechanisms are required.
 
 ---
-
-
-Just tell me what you want next 👌🔥
