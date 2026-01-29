@@ -1,8 +1,3 @@
-Nice 🔥 — your README is already **very professional**.
-Since you said you **removed GUI**, I’ve rewritten it in **proper Markdown**, fixed formatting, removed GUI references, and made it clean for GitHub.
-
-You can **replace your README.md completely with this** 👇
-
 ---
 
 # 🛡️ AI Face Attendance System with Liveness Detection
