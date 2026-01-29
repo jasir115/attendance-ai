@@ -1,0 +1,7 @@
+models/
+insightface_models/
+db/embeddings.npz
+attendance.csv
+__pycache__/
+*.pyc
+.env
